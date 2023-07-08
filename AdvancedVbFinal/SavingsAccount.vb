@@ -8,8 +8,8 @@ Public Class SavingsAccount
     Private termLengthAmount As Integer
     Private intRate As Double
     Private minBalance As Double
-    Private projCounter As Integer = 0 'maybe don't include?
-    Private projectionsArr() As Double 'maybe don't include?
+    'Private projCounter As Integer = 0 'maybe don't include?
+    'Private projectionsArr() As Double 'maybe don't include?
 #End Region
 
 #Region "Constructors"
